@@ -1,2 +1,3 @@
-# DevWeb 2
+# Desafio2
 Continuação do desafio passado na aula de Programação em Microinformatica.
+Utilizando o flask
