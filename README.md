@@ -1,4 +1,4 @@
-# Desafio2
+# Desafio2 Flask
 Continuação do desafio passado na aula de Programação em Microinformatica.
 
-Utilizando o flask.
+Adicionando o Flask e Normalize
